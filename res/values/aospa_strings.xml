@@ -95,6 +95,10 @@
     <string name="gestures_one_finger_swipe_left">One-finger swipe left</string>
     <string name="gestures_two_finger_swipe">Two-finger swipe</string>
 
+    <!-- Screen off UDFPS -->
+    <string name="ambient_display_screen_off_udfps_title">Always on Fingerprint</string>
+    <string name="ambient_display_screen_off_udfps_summary">Allows unlocking with the screen off.\nEnabling may cause accidental wake-ups.</string>
+
     <!-- Three-fingers-swipe screenshot -->
     <string name="three_finger_gesture">Swipe to screenshot</string>
     <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
